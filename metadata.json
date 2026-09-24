@@ -1,0 +1,11 @@
+{
+  "name": "Remix vietsub-studio-pro",
+  "description": "Professional video editing toolkit with timeline cutting, audio extraction, CapCut Sound FX, dynamic bilingual subtitles, AI Vietnamese voiceover, Cloudflare Workers AI integration, and 1-click Vietsub bookmarklet.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
